@@ -5,6 +5,7 @@ import ItemList from "../item-list/item-list";
 
 import './app.css'
 import PersonDetails from "../person-deteils/person-deteils";
+import ErrorButton from "../error-button/error-button";
 
 
 export const App = () => {
